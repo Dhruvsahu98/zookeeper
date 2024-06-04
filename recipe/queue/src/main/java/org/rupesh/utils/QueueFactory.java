@@ -1,10 +1,10 @@
-package org.example.utils;
+package org.rupesh.utils;
 
 import org.apache.zookeeper.KeeperException;
 import org.apache.zookeeper.ZooKeeper;
-import org.example.NoLockQueue;
-import org.example.LockQueue;
-import org.example.interfaces.Queue;
+import org.rupesh.NoLockQueue;
+import org.rupesh.LockQueue;
+import org.rupesh.interfaces.Queue;
 
 public class QueueFactory {
     private ZooKeeper zk;

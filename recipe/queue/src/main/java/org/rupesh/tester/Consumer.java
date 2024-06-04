@@ -1,11 +1,11 @@
-package org.example.tester;
+package org.rupesh.tester;
 
 import org.apache.zookeeper.ZooKeeper;
-import org.example.interfaces.Queue;
-import org.example.utils.Constants;
-import org.example.utils.Helper;
-import org.example.utils.LockType;
-import org.example.utils.QueueFactory;
+import org.rupesh.interfaces.Queue;
+import org.rupesh.utils.Constants;
+import org.rupesh.utils.Helper;
+import org.rupesh.utils.LockType;
+import org.rupesh.utils.QueueFactory;
 
 public class Consumer {
     public static void main(String[] args) throws Exception

@@ -1,4 +1,4 @@
-package org.example.interfaces;
+package org.rupesh.interfaces;
 
 public interface Queue {
     public void enqueue(String item) throws Exception;

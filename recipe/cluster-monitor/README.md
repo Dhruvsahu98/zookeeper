@@ -7,8 +7,8 @@ Java
 
 ### Local running steps: 
 
-mvn exec:java -Dexec.mainClass=com.anubhav.ZookeeperMonitor
-mvn exec:java -Dexec.mainClass=com.anubhav.ServersToBeMonitored
+mvn exec:java -Dexec.mainClass=com.rupesh.ZookeeperMonitor
+mvn exec:java -Dexec.mainClass=com.rupesh.ServersToBeMonitored
 
 ### screen shots
 #### Plan

@@ -1,4 +1,4 @@
-package org.example.utils;
+package org.rupesh.utils;
 
 public enum LockType {
     NoLock,

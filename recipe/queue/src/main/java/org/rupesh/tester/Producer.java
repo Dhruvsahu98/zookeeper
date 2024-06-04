@@ -1,9 +1,9 @@
-package org.example.tester;
+package org.rupesh.tester;
 
 import org.apache.zookeeper.ZooKeeper;
-import org.example.NoLockQueue;
-import org.example.interfaces.Queue;
-import org.example.utils.Constants;
+import org.rupesh.NoLockQueue;
+import org.rupesh.interfaces.Queue;
+import org.rupesh.utils.Constants;
 
 public class Producer {
     public static void main(String[] args) throws Exception {

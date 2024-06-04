@@ -1,6 +1,6 @@
 ## Distributed locks using zookeeper
 Run using: <br>
-mvn exec:java -Dexec.mainClass=org.example.Locks
+mvn exec:java -Dexec.mainClass=org.rupesh.Locks
 
 ### Screenshots
 #### Problem statement

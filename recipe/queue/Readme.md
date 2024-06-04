@@ -1,8 +1,8 @@
 Run using:<br>
 ```
-mvn exec:java -Dexec.mainClass=org.example.tester.Producer 
-mvn exec:java -Dexec.mainClass=org.example.tester.Consumer -Dexec.args="Lock"
-mvn exec:java -Dexec.mainClass=org.example.tester.Consumer -Dexec.args="NoLock"
+mvn exec:java -Dexec.mainClass=org.rupesh.tester.Producer 
+mvn exec:java -Dexec.mainClass=org.rupesh.tester.Consumer -Dexec.args="Lock"
+mvn exec:java -Dexec.mainClass=org.rupesh.tester.Consumer -Dexec.args="NoLock"
 ```
 You can run multiple instances of consumer
 

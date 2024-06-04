@@ -1,4 +1,4 @@
-package org.example.utils;
+package org.rupesh.utils;
 
 public class Constants {
     // The root node of the lock hierarchy

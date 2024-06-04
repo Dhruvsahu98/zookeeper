@@ -1,4 +1,4 @@
-package org.example.utils;
+package org.rupesh.utils;
 
 import org.apache.zookeeper.CreateMode;
 import org.apache.zookeeper.KeeperException;

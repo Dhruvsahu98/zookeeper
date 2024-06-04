@@ -1,9 +1,9 @@
-package org.example;
+package org.rupesh;
 
 import org.apache.zookeeper.*;
-import org.example.interfaces.Queue;
-import org.example.utils.DistributedLock;
-import org.example.utils.Helper;
+import org.rupesh.interfaces.Queue;
+import org.rupesh.utils.DistributedLock;
+import org.rupesh.utils.Helper;
 
 import java.util.List;
 
